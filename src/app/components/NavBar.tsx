@@ -57,7 +57,7 @@ export default function NavBar() {
               />
             </div>
           </div>
-          <ul className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 z-30">
+          <ul className="menu menu-sm dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 z-30">
             <li>
               <a className="justify-between">
                 Profile
